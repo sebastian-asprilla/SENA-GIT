@@ -7,6 +7,8 @@
 	  initial-scale=1">
 <meta charset="utf-8">
 <link  rel="stylesheet" 
+
+
        type="text/css"
        href="css/estilo.css"/>
 </head>
@@ -42,7 +44,7 @@
   </div>
   <div class="rightcolumn">
     <div class="card">
-      <h2>About Me</h2>
+      <h2>About me</h2>
       <div class="fakeimg" style="height:100px;">Image</div>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
