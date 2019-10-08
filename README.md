@@ -29,7 +29,7 @@
       <h2>Acerca</h2>
       <h5>DEP-UP</h5>
       <div class="fakeimg" style="height:200px;"></div>
-      <p><img src="imagenes/jeji.png"></p>
+     
       <p>Systematization of SENA sports tournaments</p>
     </div>
     <div class="card">
