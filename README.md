@@ -30,7 +30,7 @@
       <h5>T.O.F</h5>
       <div class="fakeimg" style="height:200px;"></div>
       <p><img src="imagenes/jeji.png"></p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>Systematization of SENA sports tournaments</p>
     </div>
     <div class="card">
       <h2>TITLE HEADING</h2>
