@@ -11,9 +11,8 @@
        href="css/estilo.css"/>
 </head>
 <body>
-<!-- un comentario-->
 <div class="encabezado">
-  <h1>T.O.F su App</h1>
+  <h1>DEP-UP</h1>
   <p></p>
 </div>
 
